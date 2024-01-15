@@ -1,4 +1,6 @@
-Hi
+### I am Austen Fowler, a Computer Science student at the University of Oxford
+### I am proficient in coding in Java, with experience in Python and Haskell
+### Currently working on:
 
 <!--
 **TheGraydleDude/TheGraydleDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
